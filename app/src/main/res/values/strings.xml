@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Task</string>
+    <string name="default_client_id">388285818768-mn2u8hrkn07nhdmjbefgrh9q1ugi0p0b.apps.googleusercontent.com</string>
+    <string name="you_are_logged_in">You are Logged In</string>
+</resources>
